@@ -4,15 +4,24 @@ Write a step by step pseudocode using plain text and logical structure.
 
 Exercise 1: Find the Largest of Two Numbers
 
-1. START
-2. INPUT A and B
-3. IF A > B THEN
-   DISPLAY A
+1. Start
+
+2. Input A and B
+
+3. If A > B Then
+
+	Display A
+
    If Else A == B
-   DISPLAY "Equal"
-   ELSE
-   DISPLAY B
-4. END
+
+	Display "Equal"
+
+   Else
+
+	Display B
+
+4. End
+
 
 Exercise 2: 
 
