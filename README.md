@@ -23,7 +23,7 @@ Exercise 1: Find the Largest of Two Numbers
 4. End
 
 
-Exercise 2: 
+Exercise 2: Sum of 5 numbers 
 
 1. Start
    
@@ -55,14 +55,14 @@ End the program.
 
 Pseudocode
 
-1. START
-2. INPUT age
-3. IF age >= 18 THEN
-    PRINT "You are eligible to vote."
+START
+	INPUT age
+ 	IF age >= 18 THEN
+    	PRINT "You are eligible to vote."
     ELSE
-    PRINT "You are not eligible to vote."
+    	PRINT "You are not eligible to vote."
     ENDIF
-4. END
+END
 
 <img width="551" height="581" alt="vote drawio" src="https://github.com/user-attachments/assets/d851b907-e552-4ed4-a35d-169906c344fc" />
 
