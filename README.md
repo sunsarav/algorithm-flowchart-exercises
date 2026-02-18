@@ -4,47 +4,29 @@ Write a step by step pseudocode using plain text and logical structure.
 
 Exercise 1: Find the Largest of Two Numbers
 
-Write the pseudocode for a program that:
-
-Takes two numbers A and B as input.
-
-Compares the two numbers.
-
-Displays which number is larger
-
-If they are equal, display "Both numbers are equal".
-
-1. Start
-2. Input A and B
-3. If A > B Then
-	Display A
+1. START
+2. INPUT A and B
+3. IF A > B THEN
+	DISPLAY A
    If Else A == B
-	Display "Equal"
-   Else
-	Display B
-4. End
+	DISPLAY "Equal"
+   ELSE
+	DISPLAY B
+4. END
 
-Exercise 2: Sum of 5 Numbers
+Exercise 2: 
 
-Write pseudocode for a program that:
-
-Reads 5 numbers one by one.
-
-Calculates their total sum
-
-Displays the result.
-
-1. Start
-2. Set i = 1,Sum = 0
-3. While i <= 5 do
-	Input num
+1. START
+2. SET i = 1,Sum = 0
+3. WHILE i <= 5 do
+	INPUT num
 	Sum = Sum + num
 	i = i + 1
-	End While
-4. Display sum
-5. End
+	END WHILE
+4. DISPLAY sum
+5. END
 
-Algorithm and Flowchart
+Practice - Algorithm and Flowchart
 
 Exercise 1
 
@@ -56,14 +38,14 @@ End the program.
 
 Pseudocode
 
-START
-    INPUT age
-    IF age >= 18 THEN
-        PRINT "You are eligible to vote."
+1. START
+2. INPUT age
+3. IF age >= 18 THEN
+    PRINT "You are eligible to vote."
     ELSE
-        PRINT "You are not eligible to vote."
+    PRINT "You are not eligible to vote."
     ENDIF
-END
+4. END
 
 Exercise 2
 
@@ -76,10 +58,10 @@ Below 50 → Fail
 
 Pseudocode
 
-START
-    INPUT marks
-    IF marks >= 90 THEN
-        PRINT "Grade A"
+1. START
+2. INPUT marks
+3. IF marks >= 90 THEN
+    PRINT "Grade A"
     ELSE IF marks >= 75 THEN
         PRINT "Grade B"
     ELSE IF marks >= 50 THEN
@@ -87,7 +69,7 @@ START
     ELSE
         PRINT "Fail"
     ENDIF
-END
+4. END
 
 Exercise 3
 
@@ -100,14 +82,14 @@ Ends program
 
 Pseudocode
 
-START
-    total = 0
-    REPEAT 5 TIMES
-        INPUT number
-        total = total + number
+1. START
+2. sum = 0
+3. REPEAT 5 TIMES
+4. INPUT num
+    sum = sum + num
     ENDREPEAT
-    PRINT "Total sum = ", total
-END
+5. PRINT "Total sum = ", sum
+6. END
 
 Exercise 4
 
@@ -120,15 +102,15 @@ Ends program
 
 Pseudocode
 
-START
-    INPUT A
-    INPUT B
-    INPUT C
-    IF A >= B AND A >= C THEN
-        PRINT "A is largest"
+1. START
+2. INPUT A
+3. INPUT B
+4. INPUT C
+5. IF A >= B AND A >= C THEN
+    PRINT "A is largest"
     ELSE IF B >= A AND B >= C THEN
-        PRINT "B is largest"
+    PRINT "B is largest"
     ELSE
-        PRINT "C is largest"
+    PRINT "C is largest"
     ENDIF
-END
+6. END
