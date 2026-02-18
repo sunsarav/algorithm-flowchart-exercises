@@ -25,15 +25,15 @@ Exercise 1: Find the Largest of Two Numbers
 
 Exercise 2: 
 
-1. START
-2. SET i = 1,Sum = 0
-3. WHILE i <= 5 do
-	INPUT num
-	Sum = Sum + num
-	i = i + 1
-	END WHILE
-4. DISPLAY sum
-5. END
+1. Start
+2. Set i = 1,Sum = 0
+3. While i <= 5 do
+	Input num
+		Sum = Sum + num
+		i = i + 1
+	End While
+4. Display sum
+5. End
 
 Practice - Algorithm and Flowchart
 
