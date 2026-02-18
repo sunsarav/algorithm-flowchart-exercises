@@ -47,6 +47,9 @@ Pseudocode
     ENDIF
 4. END
 
+<img width="551" height="581" alt="vote drawio" src="https://github.com/user-attachments/assets/d851b907-e552-4ed4-a35d-169906c344fc" />
+
+
 Exercise 2
 
 A program takes student marks (0–100).
