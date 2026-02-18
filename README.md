@@ -4,44 +4,32 @@ Write a step by step pseudocode using plain text and logical structure.
 
 Exercise 1: Find the Largest of Two Numbers
 
-1. Start
+Start
 
-2. Input A and B
-
-3. If A > B Then
-
-	Display A
-
-   If Else A == B
-
-	Display "Equal"
-
-   Else
-
-	Display B
-
-4. End
+	Input A and B
+		If A > B Then
+			Display A
+    	If Else A == B
+			Display "Equal"
+    	Else
+			Display B
+	
+End
 
 
 Exercise 2: Sum of 5 numbers 
 
-1. Start
-   
-2. Set i = 1, Sum = 0
+Start
 
-3. While i <= 5 do
-   
-	Input num
-
+	Set i = 1, Sum = 0
+	While i <= 5 do
+		Input num
 		Sum = Sum + num
-
 		i = i + 1
-
 	End While
-
-4. Display sum
-
-5. End
+		Display sum
+		
+End
 
 Practice - Algorithm and Flowchart
 
@@ -81,10 +69,11 @@ Below 50 → Fail
 
 Pseudocode
 
-1. START
-2. INPUT marks
-3. IF marks >= 90 THEN
-    PRINT "Grade A"
+START
+
+	INPUT marks
+	IF marks >= 90 THEN
+    	PRINT "Grade A"
     ELSE IF marks >= 75 THEN
         PRINT "Grade B"
     ELSE IF marks >= 50 THEN
@@ -92,7 +81,8 @@ Pseudocode
     ELSE
         PRINT "Fail"
     ENDIF
-4. END
+	
+END
 
    <img width="991" height="1011" alt="marks drawio" src="https://github.com/user-attachments/assets/ce29fcc0-2f80-4647-9309-a0e6758bf2f9" />
 
@@ -109,14 +99,16 @@ Ends program
 
 Pseudocode
 
-1. START
-2. sum = 0
-3. REPEAT 5 TIMES
-4. INPUT num
-    sum = sum + num
+START
+
+	sum = 0
+	REPEAT 5 TIMES
+		INPUT num
+    	sum = sum + num
     ENDREPEAT
-5. PRINT "Total sum = ", sum
-6. END
+	PRINT "Total sum = ", sum
+	
+END
 
    <img width="512" height="661" alt="sum of 5 nos drawio" src="https://github.com/user-attachments/assets/c8fde993-061c-46a7-b3ec-30d47a9b084c" />
    
@@ -133,18 +125,20 @@ Ends program
 
 Pseudocode
 
-1. START
-2. INPUT A
-3. INPUT B
-4. INPUT C
-5. IF A >= B AND A >= C THEN
-    PRINT "A is largest"
-    ELSE IF B >= A AND B >= C THEN
-    PRINT "B is largest"
-    ELSE
-    PRINT "C is largest"
-    ENDIF
-6. END
+START
+
+	INPUT A
+	INPUT B
+	INPUT C
+		IF A >= B AND A >= C THEN
+    		PRINT "A is largest"
+    	ELSE IF B >= A AND B >= C THEN
+    		PRINT "B is largest"
+    	ELSE
+    		PRINT "C is largest"
+    	ENDIF
+		
+END
 
    <img width="751" height="771" alt="largest num drawio" src="https://github.com/user-attachments/assets/353f848f-bf29-47fd-b80c-d4b3ba5ee3d0" />
    
