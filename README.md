@@ -4,27 +4,27 @@ Write a step by step pseudocode using plain text and logical structure.
 
 Exercise 1: Find the Largest of Two Numbers
 
-	Start
-		Input A and B
-			If A > B Then
-				Display A
-    		If Else A == B
-				Display "Equal"
-    		Else
-				Display B
-	End
+	START
+		INPUT A and B
+			IF A > B THEN
+				DISPLAY A
+    		If ELSE A == B
+				DISPLAY "Equal"
+    		ELSE
+				DISPLAY B
+	END
 	
 Exercise 2: Sum of 5 numbers 
 
-	Start
-		Set i = 1, Sum = 0
-		While i <= 5 do
-			Input num
+	START
+		SET i = 1, Sum = 0
+		WHILE i <= 5 do
+			INPUT num
 			Sum = Sum + num
 			i = i + 1
-		End While
-			Display sum
-	End
+		END WHILE
+			DISPLAY sum
+	END
 		
 Practice - Algorithm and Flowchart
 
@@ -38,14 +38,14 @@ End the program.
 
 Pseudocode
 
-	Start
+	START
 		INPUT age
  		IF age >= 18 THEN
     		PRINT "You are eligible to vote."
     	ELSE
     		PRINT "You are not eligible to vote."
     	ENDIF
-	End
+	END
 	
 <img width="551" height="581" alt="vote drawio" src="https://github.com/user-attachments/assets/d851b907-e552-4ed4-a35d-169906c344fc" />
 
@@ -62,7 +62,7 @@ Below 50 → Fail
 
 Pseudocode
 
-	Start
+	START
 		INPUT marks
 			IF marks >= 90 THEN
     			PRINT "Grade A"
@@ -73,7 +73,7 @@ Pseudocode
     		ELSE
         		PRINT "Fail"
     		ENDIF
-	End
+	END
 	
    <img width="991" height="1011" alt="marks drawio" src="https://github.com/user-attachments/assets/ce29fcc0-2f80-4647-9309-a0e6758bf2f9" />
 
@@ -90,14 +90,14 @@ Ends program
 
 Pseudocode
 
-	Start
+	START
 		sum = 0
 		REPEAT 5 TIMES
 			INPUT num
     		sum = sum + num
     	ENDREPEAT
 			PRINT "Total sum = ", sum
-	End
+	END
 	
    <img width="512" height="661" alt="sum of 5 nos drawio" src="https://github.com/user-attachments/assets/c8fde993-061c-46a7-b3ec-30d47a9b084c" />
    
@@ -114,7 +114,7 @@ Ends program
 
 Pseudocode
 
-	Start
+	START
 		INPUT A
 		INPUT B
 		INPUT C
@@ -125,7 +125,7 @@ Pseudocode
     		ELSE
     			PRINT "C is largest"
     		ENDIF
-	End
+	END
 		
    <img width="751" height="771" alt="largest num drawio" src="https://github.com/user-attachments/assets/353f848f-bf29-47fd-b80c-d4b3ba5ee3d0" />
    
