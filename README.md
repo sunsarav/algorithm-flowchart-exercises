@@ -47,6 +47,10 @@ Pseudocode
     ENDIF
 4. END
 
+<img width="551" height="581" alt="vote drawio" src="https://github.com/user-attachments/assets/d851b907-e552-4ed4-a35d-169906c344fc" />
+
+
+
 Exercise 2
 
 A program takes student marks (0–100).
@@ -71,6 +75,10 @@ Pseudocode
     ENDIF
 4. END
 
+   <img width="991" height="1011" alt="marks drawio" src="https://github.com/user-attachments/assets/ce29fcc0-2f80-4647-9309-a0e6758bf2f9" />
+
+   
+
 Exercise 3
 
 A program that:
@@ -90,6 +98,10 @@ Pseudocode
     ENDREPEAT
 5. PRINT "Total sum = ", sum
 6. END
+
+   <img width="512" height="661" alt="sum of 5 nos drawio" src="https://github.com/user-attachments/assets/c8fde993-061c-46a7-b3ec-30d47a9b084c" />
+   
+
 
 Exercise 4
 
@@ -114,3 +126,7 @@ Pseudocode
     PRINT "C is largest"
     ENDIF
 6. END
+
+   <img width="751" height="771" alt="largest num drawio" src="https://github.com/user-attachments/assets/353f848f-bf29-47fd-b80c-d4b3ba5ee3d0" />
+   
+
