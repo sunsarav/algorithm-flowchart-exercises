@@ -7,11 +7,11 @@ Exercise 1: Find the Largest of Two Numbers
 1. START
 2. INPUT A and B
 3. IF A > B THEN
-	DISPLAY A
+   DISPLAY A
    If Else A == B
-	DISPLAY "Equal"
+   DISPLAY "Equal"
    ELSE
-	DISPLAY B
+   DISPLAY B
 4. END
 
 Exercise 2: 
