@@ -26,13 +26,21 @@ Exercise 1: Find the Largest of Two Numbers
 Exercise 2: 
 
 1. Start
-2. Set i = 1,Sum = 0
+   
+2. Set i = 1, Sum = 0
+
 3. While i <= 5 do
+   
 	Input num
+
 		Sum = Sum + num
+
 		i = i + 1
+
 	End While
+
 4. Display sum
+
 5. End
 
 Practice - Algorithm and Flowchart
