@@ -1,0 +1,19 @@
+PSEUDOCODE - LARGEST OF TWO NUMBERS (DECISION)
+
+1. Start
+
+2. Input A and B
+
+3. If A > B Then
+
+	Display A
+
+   If Else A == B
+
+	Display "Equal"
+
+   Else
+
+	Display B
+
+4. End
