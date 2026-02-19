@@ -1,8 +1,8 @@
-Practice - Writing Pseudocode
+# Practice - Writing Pseudocode
 
 Write a step by step pseudocode using plain text and logical structure.
 
-Exercise 1: Find the Largest of Two Numbers
+## Exercise 1: Find the Largest of Two Numbers
 
 	START
 		INPUT A and B
@@ -14,7 +14,7 @@ Exercise 1: Find the Largest of Two Numbers
 				DISPLAY B
 	END
 	
-Exercise 2: Sum of 5 numbers 
+## Exercise 2: Sum of 5 numbers 
 
 	START
 		SET i = 1, Sum = 0
@@ -26,9 +26,9 @@ Exercise 2: Sum of 5 numbers
 			DISPLAY sum
 	END
 		
-Practice - Algorithm and Flowchart
+# Practice - Algorithm and Flowchart
 
-Exercise 1
+## Exercise 1
 
 A program asks the user to enter their age.
 
@@ -36,7 +36,7 @@ If age is 18 or older, display: "You are eligible to vote."
 If age is less than 18, display: "You are not eligible to vote."
 End the program.
 
-Pseudocode
+### Pseudocode
 
 	START
 		INPUT age
@@ -47,11 +47,13 @@ Pseudocode
     	ENDIF
 	END
 	
+### Flowchart
+
 <img width="551" height="581" alt="vote drawio" src="https://github.com/user-attachments/assets/d851b907-e552-4ed4-a35d-169906c344fc" />
 
 
 
-Exercise 2
+## Exercise 2
 
 A program takes student marks (0–100).
 
@@ -60,7 +62,7 @@ A program takes student marks (0–100).
 50–74 → Grade C
 Below 50 → Fail
 
-Pseudocode
+### Pseudocode
 
 	START
 		INPUT marks
@@ -75,11 +77,13 @@ Pseudocode
     		ENDIF
 	END
 	
-   <img width="991" height="1011" alt="marks drawio" src="https://github.com/user-attachments/assets/ce29fcc0-2f80-4647-9309-a0e6758bf2f9" />
+### Flowchart
+   
+<img width="991" height="1011" alt="marks drawio" src="https://github.com/user-attachments/assets/ce29fcc0-2f80-4647-9309-a0e6758bf2f9" />
 
    
 
-Exercise 3
+## Exercise 3
 
 A program that:
 
@@ -88,7 +92,7 @@ Keeps a running total
 Displays the sum
 Ends program
 
-Pseudocode
+### Pseudocode
 
 	START
 		sum = 0
@@ -99,11 +103,13 @@ Pseudocode
 			PRINT "Total sum = ", sum
 	END
 	
-   <img width="512" height="661" alt="sum of 5 nos drawio" src="https://github.com/user-attachments/assets/c8fde993-061c-46a7-b3ec-30d47a9b084c" />
+### Flowchart
+   
+<img width="512" height="661" alt="sum of 5 nos drawio" src="https://github.com/user-attachments/assets/c8fde993-061c-46a7-b3ec-30d47a9b084c" />
    
 
 
-Exercise 4
+## Exercise 4
 
 A program that:
 
@@ -112,7 +118,7 @@ Finds the largest
 Displays result
 Ends program
 
-Pseudocode
+### Pseudocode
 
 	START
 		INPUT A
@@ -127,6 +133,8 @@ Pseudocode
     		ENDIF
 	END
 		
-   <img width="751" height="771" alt="largest num drawio" src="https://github.com/user-attachments/assets/353f848f-bf29-47fd-b80c-d4b3ba5ee3d0" />
+### Flowchart
+
+<img width="751" height="771" alt="largest num drawio" src="https://github.com/user-attachments/assets/353f848f-bf29-47fd-b80c-d4b3ba5ee3d0" />
    
 
